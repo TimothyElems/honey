@@ -1,0 +1,11 @@
+[project]
+name = "honey"
+version = "0.1.0"
+description = "Add a short description here"
+channels = ["conda-forge"]
+platforms = ["osx-64"]
+
+[tasks]
+
+[dependencies]
+python = "3.11.9.*"
